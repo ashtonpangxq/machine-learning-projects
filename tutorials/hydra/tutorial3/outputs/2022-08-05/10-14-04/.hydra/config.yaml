@@ -1,0 +1,4 @@
+dataset: {}
+model:
+  name: resnet
+  num_layers: 50
